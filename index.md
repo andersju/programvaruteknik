@@ -65,6 +65,13 @@ Vilken som helst av de stora, vanligt förekommande distributionerna ([Ubuntu](h
 
 Att ha en dator med enbart Linux är rekommenderat (eller dual-boota om du orkar mecka). Annars kan du använda [VirtualBox](https://www.virtualbox.org/) (Linux/Mac/Windows), men det kommer att gå segare. Ett annat alternativ, om du kör Windows, är [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
 
+## Användbara länkar för olika programmeringsspråk
+
+### C++
+
+* [Cppreference](https://en.cppreference.com/w/cpp) - Väldigt användbar referens för C++ och standard biblioteket. Ibland lämnar sökfunktionen en del att önska. Om du inte hittar det du söker så använd en vanlig sökmotor, då de första träffarna på sökningar innehållandes "C++" brukar komma härifrån. Något bättre uppdaterad än [Cplusplus.com](http://www.cplusplus.com/).
+* [Cpp Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - En samling generella riktlinjer där målet är modern kod som undviker vanliga fallgropar. Introducerad av Bjarne Stroustrup och Herb Sutter, två stora namn inom C++ communityt. Behandlar väldigt mycket och allt är inte relevant för nybörjarkurser men kan vara väl värt att snegla på då och då för den som är intresserad. Om begrepp som klasser och funktioner är nya för dig så finns det annat att fokusera på.
+
 ## Kurser år 1
 
 ### DT013G Datavetenskaplig introduktionskurs

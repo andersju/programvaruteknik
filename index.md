@@ -77,9 +77,13 @@ Plug-and-play lösningar som inte kräver så mycket konfiguration
 För en lättviktsvariant som kräver lite konfigurering för varje språk
 * [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
 
-Samtliga klienter ovan är ganska väldokumenterade och har ett ganska stort antal användare. 
+Samtliga klienter ovan är ganska väldokumenterade och har ett ganska stort antal användare.
 
 ## Användbara länkar för olika programmeringsspråk
+
+### Allmänt
+
+* [Compiler Explorer (godbolt.org)](https://godbolt.org/) - "interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code" - smidigt för att jämföra vad olika språk och kompilatorer (eller olika optimeringsnivåer i samma kompilator) faktiskt genererar i slutändan för en viss kodsnutt. Se även Matt Godbolts föredrag [“What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid”](https://www.youtube.com/watch?v=bSkpMdDe4g4) från CppCon 2017.
 
 ### C++
 

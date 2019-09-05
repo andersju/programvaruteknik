@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  color: #dcddde;
+  background: #36393f;
+}
+
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-shadow: none;
+}
+
+header h2 {
+  color: #999;
+}

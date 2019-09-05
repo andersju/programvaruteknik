@@ -181,4 +181,4 @@ Se även Universitetskanslerämbetets vägledning [Rättssäker examination](htt
 
 Nåt som är fel? Nåt du vill lägga till? Den här sidan finns i ett [GitHub-repo](https://github.com/andersju/programvaruteknik). Gör en pull request! (Eller hojta på Discord.)
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) används som syntax.
+[Kramdown](https://kramdown.gettalong.org/syntax.html) används som syntax.

@@ -1,3 +1,3 @@
-Se <https://andersju.github.io/programvaruteknik/>
+Se <https://programvaruteknik.unix.se/>
 
 Ändra gärna.

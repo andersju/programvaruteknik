@@ -1,37 +1,149 @@
-## Welcome to GitHub Pages
+---
+title: Programvaruteknik
+---
+## Innehållsförteckning
+{:.no_toc}
 
-You can use the [editor on GitHub](https://github.com/andersju/programvaruteknik/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* TOC
+{:toc}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Inledande tips
 
-### Markdown
+* Se till att vidarebefordra din studentmejl till din vanliga mejl, så att du inte missar något viktigt!
+* Gå med i [Programvaruteknik på Discord](https://discordapp.com/invite/FTCnyDf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Kurslitteratur
 
-```markdown
-Syntax highlighted code block
+### Elektroniskt
 
-# Header 1
-## Header 2
-### Header 3
-pagespages
-- Bulleted
-- List
+Biblioteket som har ungefär allt: Library Genesis (googla).
 
-1. Numbered
-2. List
+Är LibGen blockerad? Byt till en DNS-server som inte tvingats ljuga för dig, så kommer det förmodligen att fungera. Det finns [många öppna sådana](https://en.wikipedia.org/wiki/Public_recursive_name_server). De som tillhandahålls av Google (8.8.8.8 och 8.8.4.4) och Cloudflare (1.1.1.1) har lättihågkomliga IP-adresser.
 
-**Bold** and _Italic_ and `Code` text
+### Döda träd
 
-[Link](url) and ![Image](src)
-```
+Lån, campusstudenter: [universitetsbiblioteket](https://biblioteket.miun.se/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Lån, student ej i Östersund men i Sverige: [KB:s tjänst Libris](http://libris.kb.se/) vet vad som finns var
 
-### Jekyll Themes
+Köpa: Många böcker finns väldigt billigt begagnade på [Abebooks](https://www.abebooks.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andersju/programvaruteknik/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Skriva referenser
 
-### Support or Contact
+Många kurser saknar moment som involverar akademiskt skrivande, men när det väl gäller är det IEEE-stil som används:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* <https://libguides.murdoch.edu.au/IEEE/>
+* <https://libguides.ust.hk/basic-citation/ieee-style>
+* <https://guides.lib.monash.edu/citing-referencing/ieee>
+
+Sök efter `ieee citation style` för massor av fler guider och exempel.
+
+[Zotero](https://www.zotero.org/) (som kan integreras med LibreOffice) kan vara nyttigt. Institutionen har i skrivande stund ODT-mallar som standard...
+
+## Mjukvara
+
+### IDE:er och texteditorer
+[JetBrains](https://www.jetbrains.com/) har en mängd populära IDE:er för olika språk (C++, Java, PHP, JavaScript, Python, etc). De funkar alla på såväl Linux och Windows som Mac. Kostar normalt $$, **MEN** är [gratis för studenter](https://www.jetbrains.com/student/) (använd din studentepostadress när du skapar konto).
+
+[Sublime Text](https://www.sublimetext.com/) (Linux/Windows/Mac) är ett trevligt alternativ om din dator krackelerar under tyngden av JetBrains-programmen. Proprietärt, men obegränsad trial.
+
+[vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) är fria, finns för alla plattformar under solen, har funnits i flera decennier och stora skaror fanatiska användare. [Spacemacs](http://spacemacs.org/) för de två religionerna samman en smula: Emacs med Vim-keybindings per default.
+
+### Linux
+
+Vilken som helst av de stora, vanligt förekommande distributionerna ([Ubuntu](https://ubuntu.com/) / [Mint](https://www.linuxmint.com/) / [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/), [Arch](https://www.archlinux.org/), osv. etc.) funkar bra för allt du kommer behöva göra under programmet. Senaste LTS-versionen av Ubuntu (LTS = long term support) är standardtipset: lätt att komma ihång med och populärast (så lätt att googla problem).
+
+Att ha en dator med enbart Linux är rekommenderat (eller dual-boota om du orkar mecka). Annars kan du använda [VirtualBox](https://www.virtualbox.org/) (Linux/Mac/Windows), men det kommer att gå segare. Ett annat alternativ, om du kör Windows, är [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
+
+## Kurser år 1
+
+### DT013G Datavetenskaplig introduktionskurs
+
+### DT158G Operativsystem introduktion, med tillämpningar i Linux
+
+Kom igång med Linux - guider på olika nivåer: <https://linuxjourney.com/>
+
+### DT018G Introduktion till programmering i C++
+
+* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+
+### DT151G Datorkommunikation och nätverk, med tillämpningar i Linux
+
+### DT019G Objektbaserad programmering i C++
+
+Du kan använda vad som helst, men en IDE såsom CLion eller Visual Studio kan vara väldigt hjälpsam.
+
+### MA140G Diskret matematik för programmerare
+
+* [Matteboken.se](https://www.matteboken.se/) - gratis övningar och lektioner. Speciellt Matte 5 och Mattespecialisering tar upp saker relevanta för kursen.
+* [Symbolab Math Solver](https://www.symbolab.com/) - förklarar hur godtycklig ekvation kan lösas
+
+### DT076G Databaser, modellering och implementering
+
+* [DB Browser for SQLite](https://sqlitebrowser.org/) (sqlitebrowser) - "visual, open source tool to create, design, and edit database files compatible with SQLite" - snabbt och enkelt sätt att laborera med databaser
+
+### DT060G Objektorienterad programmering i C++
+
+## Kurser år 2
+
+### DT042G Metoder och verktyg i mjukvaruprojekt
+
+### DT074G XML
+
+### DT062G Java för C++ programmerare
+
+Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
+
+### DT146G Webbprogrammering med HTML5, CSS3 och JavaScript
+
+Lär dig använda developer tools i Firefox eller Chrome. Ovärderligt/oumbärligt.
+
+### DT063G Designmönster med C++
+
+### DT161G Webbprogrammering med PHP och PostgreSQL
+
+* [PHP: The Right Way](https://phptherightway.com/) ("There’s a lot of outdated information on the Web that leads new PHP users astray, propagating bad practices and insecure code. PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.")
+
+### DT031G Applikationsutveckling för Android
+
+### DT167G Mjukvarusäkerhet
+
+## Kurser år 3
+
+### DT166G Presentation av ny teknik
+
+### DT065G Systemprogrammering i UNIX/Linux
+
+### DT045A Java Enterprise-utveckling med EE-standarden
+
+Numera ersatt av DT176G Reaktiv programmering / RxJava?
+
+### DT147G Programmering med samtidighet och parallellism
+
+### DT015A Artificiell Intelligens för agenter
+
+### DT002G Tillämpad datateknik, mjukvaruprojekt
+
+### DT133G Sjävständigt arbete
+
+## Annat nyttigt
+
+### Studentombud och rättigheter
+
+Studentkåren i Östersund har ett heltidsanställt [studentombud](http://www.studentostersund.se/utbildning/studentombudet/) som kan hjälpa dig vid problem med universitetet. ("Alla studenter på Mittuniversitetet i Östersund kan få råd och medlemmar i kåren får dessutom ytterligare hjälp i form av att studentombudet företräder dem i ärendet om så önskas. Kårmedlemskapet ger det lilla extra.")
+
+Mittuniversitetets [regel för examination](https://medarbetarportalen.miun.se/globalassets/styrdokument/3.-utbildning-pa-grund-och-avancerad-niva/utbilda/bilaga-till-miun-2016-1998-regel-for-examination.pdf) säger bland annat:
+
+> Rättningstiden för examination vid Mittuniversitetet är högst 15 arbetsdagar. Rättningstid räknas från dagen efter examinationstillfället tills den dag resultatet redovisas. Om särskilda skäl föreligger kan avdelning besluta om undantag från denna regel efter samråd med berörda studenter.
+
+och:
+
+> Datum för ny examination ska meddelas senast vid ordinarie examinationstillfälle. Tiden mellan meddelandet av resultatet av examinationen och ny examination måste vara minst två (2) kalenderveckor.
+
+Se även Universitetskanslerämbetets vägledning [Rättssäker examination](https://www.uka.se/publikationer--beslut/publikationer--beslut/vagledningar/vagledningar/2017-07-06-rattssaker-examination.html).
+
+## Ändra den här sidan
+
+Nåt som är fel? Nåt du vill lägga till? Den här sidan finns i ett [GitHub-repo](https://github.com/andersju/programvaruteknik). Gör en pull request! (Eller hojta på Discord.)
+
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) används som syntax.

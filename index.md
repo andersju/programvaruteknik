@@ -40,6 +40,16 @@ Sök efter `ieee citation style` för massor av fler guider och exempel.
 
 [Zotero](https://www.zotero.org/) (som kan integreras med LibreOffice) kan vara nyttigt. Institutionen har i skrivande stund ODT-mallar som standard...
 
+## Studenterbjudanden/-rabatter
+
+* JetBrains-programmen (se IDE:er nedan)
+* [GitHub Student Developer Pack](https://education.github.com/pack) - allt möjligt
+* [Dustin Home](https://www.dustinhome.se/student) har studentrabatter
+* [Lenovo](https://www.lenovo.com/se/sv/studentrabatt/) har studentrabatter (Thinkpad X- eller T-serie standardtips för bra utvecklarlaptops)
+* [Dell](https://www.dell.com/sv-se/shop/dell-advantage/cp/students) har studentrabatter (XPS-serien är mycket populär bland utvecklare, kan ibland fås förinstallerad med Linux)
+* [Apple](https://mecenat.com/se/apple) har studentrabatter (MacBooks är också väldigt populära bland utvecklare)
+* Se [Mecenat](https://mecenat.com/se) för allt möjligt annat
+
 ## Mjukvara
 
 ### IDE:er och texteditorer

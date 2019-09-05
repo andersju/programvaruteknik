@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight
+title: Programvaruteknik
+description: Nyttig information för och av studenter på Programvaruteknik på Mittuniversitetet.
+theme: jekyll-theme-hacker
+markdown: kramdown

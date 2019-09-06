@@ -48,7 +48,8 @@ Sök efter `ieee citation style` för massor av fler guider och exempel.
 * [Lenovo](https://www.lenovo.com/se/sv/studentrabatt/) har studentrabatter (Thinkpad X- eller T-serie standardtips för bra utvecklarlaptops)
 * [Dell](https://www.dell.com/sv-se/shop/dell-advantage/cp/students) har studentrabatter (XPS-serien är mycket populär bland utvecklare, kan ibland fås förinstallerad med Linux)
 * [Apple](https://mecenat.com/se/apple) har studentrabatter (MacBooks är också väldigt populära bland utvecklare)
-* Se [Mecenat](https://mecenat.com/se) för allt möjligt annat
+* [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) Word, Excel och PowerPoint gratis för studenter
+* Se [Mecenat](https://mecenat.com/se) för allt möjligt annat 
 
 ## Mjukvara
 
@@ -58,6 +59,8 @@ Sök efter `ieee citation style` för massor av fler guider och exempel.
 [Sublime Text](https://www.sublimetext.com/) (Linux/Windows/Mac) är ett trevligt alternativ om din dator krackelerar under tyngden av JetBrains-programmen. Proprietärt, men obegränsad trial.
 
 [vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) är fria, finns för alla plattformar under solen, har funnits i flera decennier och stora skaror fanatiska användare. [Spacemacs](http://spacemacs.org/) för de två religionerna samman en smula: Emacs med Vim-keybindings per default.
+
+[Visual Studio Code](https://code.visualstudio.com/) (Linux/Windows/Mac) är ett snabbt och smidigt open-source alternativ som erbjuder många funktioner som traditionellt sett inte finns i texteditorer, som t.ex inbyggd terminal och stöd för versionskontroll.
 
 ### Linux
 

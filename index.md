@@ -48,7 +48,8 @@ Sök efter `ieee citation style` för massor av fler guider och exempel.
 * [Lenovo](https://www.lenovo.com/se/sv/studentrabatt/) har studentrabatter (Thinkpad X- eller T-serie standardtips för bra utvecklarlaptops)
 * [Dell](https://www.dell.com/sv-se/shop/dell-advantage/cp/students) har studentrabatter (XPS-serien är mycket populär bland utvecklare, kan ibland fås förinstallerad med Linux)
 * [Apple](https://mecenat.com/se/apple) har studentrabatter (MacBooks är också väldigt populära bland utvecklare)
-* Se [Mecenat](https://mecenat.com/se) för allt möjligt annat
+* [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) Word, Excel och PowerPoint gratis för studenter
+* Se [Mecenat](https://mecenat.com/se) för allt möjligt annat 
 
 ## Mjukvara
 

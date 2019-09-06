@@ -59,6 +59,8 @@ Sök efter `ieee citation style` för massor av fler guider och exempel.
 
 [vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) är fria, finns för alla plattformar under solen, har funnits i flera decennier och stora skaror fanatiska användare. [Spacemacs](http://spacemacs.org/) för de två religionerna samman en smula: Emacs med Vim-keybindings per default.
 
+[Visual Studio Code](https://code.visualstudio.com/) (Linux/Windows/Mac) är ett snabbt och smidigt open-source alternativ som erbjuder många funktioner som traditionellt sett inte finns i texteditorer, som t.ex inbyggd terminal och stöd för versionskontroll.
+
 ### Linux
 
 Vilken som helst av de stora, vanligt förekommande distributionerna ([Ubuntu](https://ubuntu.com/) / [Mint](https://www.linuxmint.com/) / [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/), [Arch](https://www.archlinux.org/), osv. etc.) funkar bra för allt du kommer behöva göra under programmet. Senaste LTS-versionen av Ubuntu (LTS = long term support) är standardtipset: lätt att komma ihång med och populärast (så lätt att googla problem).

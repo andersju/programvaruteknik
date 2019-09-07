@@ -9,8 +9,8 @@ title: Programvaruteknik
 
 ## Inledande tips
 
-* Se till att vidarebefordra din studentmejl till din vanliga mejl, så att du inte missar något viktigt!
-* Gå med i [Programvaruteknik på Discord](https://discordapp.com/invite/FTCnyDf)
+* Se till att vidarebefordra din studentmejl till din vanliga mejl, så att du inte missar något viktigt! Logga in med dittanvändarnamn@student.miun.se på <https://mail.google.com/> och ändra i inställningarna.
+* Gå med i [Programvaruteknik på Discord](https://discordapp.com/invite/FTCnyDf) (OBS: endast för studenter)
 
 ## Kurslitteratur
 
@@ -40,16 +40,32 @@ Sök efter `ieee citation style` för massor av fler guider och exempel.
 
 [Zotero](https://www.zotero.org/) (som kan integreras med LibreOffice) kan vara nyttigt. Institutionen har i skrivande stund ODT-mallar som standard...
 
-## Studenterbjudanden/-rabatter
+## Ställa frågor
 
-* [JetBrains](https://www.jetbrains.com/student/)-programmen (se IDE:er nedan) - få samtliga gratis
-* [GitHub Student Developer Pack](https://education.github.com/pack) - allt möjligt, t.ex. $X i kredit på diverse molntjänster, samt Pro-konto på GitHub (ingen större skillnad jämfört med gratiskontot, men det står då "PRO" i din GitHub-profil! Whoa!). Bör räcka med att du använder din @student.miun.se-adress för verifiering, inget mer än så krävs.
-* [Dustin Home](https://www.dustinhome.se/student) har studentrabatter
-* [Lenovo](https://www.lenovo.com/se/sv/studentrabatt/) har studentrabatter (Thinkpad X- eller T-serie standardtips för bra utvecklarlaptops)
-* [Dell](https://www.dell.com/sv-se/shop/dell-advantage/cp/students) har studentrabatter (XPS-serien är mycket populär bland utvecklare, kan ibland fås förinstallerad med Linux)
-* [Apple](https://mecenat.com/se/apple) har studentrabatter (MacBooks är också väldigt populära bland utvecklare)
-* [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) Word, Excel och PowerPoint gratis för studenter
-* Se [Mecenat](https://mecenat.com/se) för allt möjligt annat 
+Att köra fast när du programmerar är inget konstigt. Var inte rädd för att ställa frågor. Men tänk på *hur* du ställer frågor! Var inte rädd för att visa kod. Ge tillräckligt mycket information för att folk ska ha en sportlig chans att faktiskt kunna hjälpa dig, annars blir det lätt en tidsödande gissningslek. Se t.ex. [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example).
+
+Har du ett GitHub-konto kan du klistra in kod i en [gist](https://gist.github.com/) och länka (gists kan tas bort senare). Annars kan du använda någon pastebin-sajt (<https://hastebin.com/>, <https://paste.ubuntu.com/> osv).
+
+Mindre kodsnuttar kan du posta direkt på Discord. Se till att omge dem med  tre backticks - \`\`\`  - före och efter. T.ex.:
+
+    ```
+    kod kod kod
+    kod kod kod
+    ```
+
+För syntax highlighting kan du även ange språk. T.ex.:
+
+    ```cpp
+    std::cout << "C++-kod weee" << std::endl;
+    return 0;
+    ```
+
+Vilket då kommer visas som:
+
+```cpp
+std::cout << "C++-kod weee" << std::endl;
+return 0;
+```
 
 ## Mjukvara
 
@@ -86,12 +102,20 @@ Samtliga klienter ovan är ganska väldokumenterade och har ett ganska stort ant
 
 ### Allmänt
 
+* [Stack Overflow](https://stackoverflow.com/questions) är en frågor-och-svar-sajt som är en fullkomlig guldgruva för såväl studenter som yrkesverksamma för allt programmeringsrelaterat. Kört fast? Prova googla `site:stackoverflow.com hur gör jag X`. Se även [de andra sajterna i Stack Exchange-nätverket](https://stackexchange.com/sites#) såsom [Server Fault](https://serverfault.com/) (för system- och nätverksadmins), [Super User](https://superuser.com/) ("for computer enthusiasts and power users"), [Ask Ubuntu](https://askubuntu.com/) osv.
 * [Compiler Explorer (godbolt.org)](https://godbolt.org/) - "interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code" - smidigt för att jämföra vad olika språk och kompilatorer (eller olika optimeringsnivåer i samma kompilator) faktiskt genererar i slutändan för en viss kodsnutt. Se även Matt Godbolts föredrag [“What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid”](https://www.youtube.com/watch?v=bSkpMdDe4g4) från CppCon 2017.
 
 ### C++
 
 * [Cppreference](https://en.cppreference.com/w/cpp) - Väldigt användbar referens för C++ och standard biblioteket. Ibland lämnar sökfunktionen en del att önska. Om du inte hittar det du söker så använd en vanlig sökmotor, då de första träffarna på sökningar innehållandes "C++" brukar komma härifrån. Något bättre uppdaterad än [Cplusplus.com](http://www.cplusplus.com/).
 * [Cpp Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - En samling generella riktlinjer där målet är modern kod som undviker vanliga fallgropar. Introducerad av Bjarne Stroustrup och Herb Sutter, två stora namn inom C++ communityt. Behandlar väldigt mycket och allt är inte relevant för nybörjarkurser men kan vara väl värt att snegla på då och då för den som är intresserad. Om begrepp som klasser och funktioner är nya för dig så finns det annat att fokusera på.
+
+### JavaScript, CSS, HTML
+
+Olika saker men tenderar att användas tillsammans i kurserna på programmet.
+
+* Mozillas [MDN](https://developer.mozilla.org/) är en pålitlig källa för tutorials och referensmaterial och annat för [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), etc.
+* [caniuse.com](https://caniuse.com/) är bra för att se exakt vad olika webbläsare stöder.
 
 ## Kurser år 1
 
@@ -127,6 +151,8 @@ Du kan använda vad som helst, men en IDE såsom CLion eller Visual Studio kan v
 ## Kurser år 2
 
 ### DT042G Metoder och verktyg i mjukvaruprojekt
+
+* [Oh, shit, git!](https://ohshitgit.com/) - lösningar på vanliga problem
 
 ### DT074G XML
 
@@ -181,6 +207,17 @@ och:
 > Datum för ny examination ska meddelas senast vid ordinarie examinationstillfälle. Tiden mellan meddelandet av resultatet av examinationen och ny examination måste vara minst två (2) kalenderveckor.
 
 Se även Universitetskanslerämbetets vägledning [Rättssäker examination](https://www.uka.se/publikationer--beslut/publikationer--beslut/vagledningar/vagledningar/2017-07-06-rattssaker-examination.html).
+
+### Studenterbjudanden/-rabatter
+
+* [JetBrains](https://www.jetbrains.com/student/)-programmen (se IDE:er nedan) - få samtliga gratis
+* [GitHub Student Developer Pack](https://education.github.com/pack) - allt möjligt, t.ex. $X i kredit på diverse molntjänster, samt Pro-konto på GitHub (ingen större skillnad jämfört med gratiskontot, men det står då "PRO" i din GitHub-profil! Whoa!). Bör räcka med att du använder din @student.miun.se-adress för verifiering, inget mer än så krävs.
+* [Dustin Home](https://www.dustinhome.se/student) har studentrabatter
+* [Lenovo](https://www.lenovo.com/se/sv/studentrabatt/) har studentrabatter (Thinkpad X- eller T-serie standardtips för bra utvecklarlaptops)
+* [Dell](https://www.dell.com/sv-se/shop/dell-advantage/cp/students) har studentrabatter (XPS-serien är mycket populär bland utvecklare, kan ibland fås förinstallerad med Linux)
+* [Apple](https://mecenat.com/se/apple) har studentrabatter (MacBooks är också väldigt populära bland utvecklare)
+* [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) Word, Excel och PowerPoint gratis för studenter
+* Se [Mecenat](https://mecenat.com/se) för allt möjligt annat
 
 ## Ändra den här sidan
 

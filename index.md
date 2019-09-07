@@ -99,7 +99,9 @@ Samtliga klienter ovan är ganska väldokumenterade och har ett ganska stort ant
 
 ### DT158G Operativsystem introduktion, med tillämpningar i Linux
 
-Kom igång med Linux - guider på olika nivåer: <https://linuxjourney.com/>
+* [linuxjourney](https://linuxjourney.com/) - Kom igång med Linux - guider på olika nivåer
+* [Extramaterial: Operating System Concepts](https://www.os-book.com/) - Slides, sammanfattningar, anteckningar m.m. för alla kapitel i kursboken av Silberschatz
+* [Stallings ppt slides](https://s2.smu.edu/~devans/7343/OS9epptSlides/) - Slides för kursboken av Stallings, med detaljerad förklaring till varje bild
 
 ### DT018G Introduktion till programmering i C++
 

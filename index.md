@@ -42,8 +42,8 @@ Sök efter `ieee citation style` för massor av fler guider och exempel.
 
 ## Studenterbjudanden/-rabatter
 
-* JetBrains-programmen (se IDE:er nedan)
-* [GitHub Student Developer Pack](https://education.github.com/pack) - allt möjligt
+* [JetBrains](https://www.jetbrains.com/student/)-programmen (se IDE:er nedan) - få samtliga gratis
+* [GitHub Student Developer Pack](https://education.github.com/pack) - allt möjligt, t.ex. $X i kredit på diverse molntjänster, samt Pro-konto på GitHub (ingen större skillnad jämfört med gratiskontot, men det står då "PRO" i din GitHub-profil! Whoa!). Bör räcka med att du använder din @student.miun.se-adress för verifiering, inget mer än så krävs.
 * [Dustin Home](https://www.dustinhome.se/student) har studentrabatter
 * [Lenovo](https://www.lenovo.com/se/sv/studentrabatt/) har studentrabatter (Thinkpad X- eller T-serie standardtips för bra utvecklarlaptops)
 * [Dell](https://www.dell.com/sv-se/shop/dell-advantage/cp/students) har studentrabatter (XPS-serien är mycket populär bland utvecklare, kan ibland fås förinstallerad med Linux)

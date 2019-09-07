@@ -78,14 +78,14 @@ return 0;
 
 [Visual Studio Code](https://code.visualstudio.com/) (Linux/Windows/Mac) är ett snabbt och smidigt open-source alternativ som erbjuder många funktioner som traditionellt sett inte finns i texteditorer, som t.ex inbyggd terminal och stöd för versionskontroll.
 
+#### Language Server Protocol
+[Language Server Protocol](https://langserver.org) är ett protokoll där tanken är att olika editors ska kunna ta del av samma språkverktyg och stöds av ex Microsoft, IBM, Red Hat, Facebook mfl. Principen är ganska enkel, i editorn installerar du ett plugin som fungerar som klient, sedan installerar du en server för de programspråk du använder i ditt operativsystem. Klienten använder då aktuell server för att implementera de funktioner som stöds av servern. Det gör att ex även Vim, Emacs, Sublime Text etc på ett enkelt sätt kan använda funktionalitet ifrån projekt med stort stöd inom respektive community. Se länken ovan för klient-/serveralternativ för olika editors och språk.
+
 ### Linux
 
 Vilken som helst av de stora, vanligt förekommande distributionerna ([Ubuntu](https://ubuntu.com/) / [Mint](https://www.linuxmint.com/) / [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/), [Arch](https://www.archlinux.org/), osv. etc.) funkar bra för allt du kommer behöva göra under programmet. Senaste LTS-versionen av Ubuntu (LTS = long term support) är standardtipset: lätt att komma ihång med och populärast (så lätt att googla problem).
 
 Att ha en dator med enbart Linux är rekommenderat (eller dual-boota om du orkar mecka). Annars kan du använda [VirtualBox](https://www.virtualbox.org/) (Linux/Mac/Windows), men det kommer att gå segare. Ett annat alternativ, om du kör Windows, är [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
-
-#### Language Server Protocol
-[Language Server Protocol](https://langserver.org) är ett protokoll där tanken är att olika editors ska kunna ta del av samma språkverktyg och stöds av ex Microsoft, IBM, Red Hat, Facebook mfl. Principen är ganska enkel, i editorn installerar du ett plugin som fungerar som klient, sedan installerar du en server för de programspråk du använder i ditt operativsystem. Klienten använder då aktuell server för att implementera de funktioner som stöds av servern. Det gör att ex även Vim, Emacs, Sublime Text etc på ett enkelt sätt kan använda funktionalitet ifrån projekt med stort stöd inom respektive community. Se länken ovan för klient-/serveralternativ för olika editors och språk.
 
 **Förslag på klienter till vim**
 

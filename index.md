@@ -210,13 +210,14 @@ Se även Universitetskanslerämbetets vägledning [Rättssäker examination](htt
 
 ### Studenterbjudanden/-rabatter
 
-* [JetBrains](https://www.jetbrains.com/student/)-programmen (se IDE:er nedan) - få samtliga gratis
+* [JetBrains](https://www.jetbrains.com/student/)-programmen (se IDE:er ovan) - få samtliga gratis
 * [GitHub Student Developer Pack](https://education.github.com/pack) - allt möjligt, t.ex. $X i kredit på diverse molntjänster, samt Pro-konto på GitHub (ingen större skillnad jämfört med gratiskontot, men det står då "PRO" i din GitHub-profil! Whoa!). Bör räcka med att du använder din @student.miun.se-adress för verifiering, inget mer än så krävs.
 * [Dustin Home](https://www.dustinhome.se/student) har studentrabatter
 * [Lenovo](https://www.lenovo.com/se/sv/studentrabatt/) har studentrabatter (Thinkpad X- eller T-serie standardtips för bra utvecklarlaptops)
 * [Dell](https://www.dell.com/sv-se/shop/dell-advantage/cp/students) har studentrabatter (XPS-serien är mycket populär bland utvecklare, kan ibland fås förinstallerad med Linux)
 * [Apple](https://mecenat.com/se/apple) har studentrabatter (MacBooks är också väldigt populära bland utvecklare)
 * [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) Word, Excel och PowerPoint gratis för studenter
+* [Tableau](https://www.tableau.com/academic/students) är ett program för analys och häftig visualisering av data. 1 års gratislicens för studenter genom din @student.miun.se-adress
 * Se [Mecenat](https://mecenat.com/se) för allt möjligt annat
 
 ## Ändra den här sidan

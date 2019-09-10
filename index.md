@@ -217,7 +217,7 @@ Se även Universitetskanslerämbetets vägledning [Rättssäker examination](htt
 * [Dell](https://www.dell.com/sv-se/shop/dell-advantage/cp/students) har studentrabatter (XPS-serien är mycket populär bland utvecklare, kan ibland fås förinstallerad med Linux)
 * [Apple](https://mecenat.com/se/apple) har studentrabatter (MacBooks är också väldigt populära bland utvecklare)
 * [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) Word, Excel och PowerPoint gratis för studenter
-* [Tableau](https://www.tableau.com/academic/students) - Kraftfult program för analys och häftig visualisering av data. 1 års gratislicens för studenter genom din @student.miun.se-adress
+* [Tableau](https://www.tableau.com/academic/students) är ett program för analys och häftig visualisering av data. 1 års gratislicens för studenter genom din @student.miun.se-adress
 * Se [Mecenat](https://mecenat.com/se) för allt möjligt annat
 
 ## Ändra den här sidan

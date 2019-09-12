@@ -42,7 +42,7 @@ Sök efter `ieee citation style` för massor av fler guider och exempel.
 
 ## Ställa frågor
 
-Att köra fast när du programmerar är inget konstigt. Var inte rädd för att ställa frågor. Men tänk på *hur* du ställer frågor! Var inte rädd för att visa kod. Ge tillräckligt mycket information för att folk ska ha en sportlig chans att faktiskt kunna hjälpa dig, annars blir det lätt en tidsödande gissningslek. Se t.ex. [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example).
+Att köra fast när du programmerar är inget konstigt. Var inte rädd för att ställa frågor. Men tänk på *hur* du ställer frågor! Var inte rädd för att visa kod. Ge tillräckligt mycket information för att folk ska ha en sportslig chans att faktiskt kunna hjälpa dig, annars blir det lätt en tidsödande gissningslek. Se t.ex. [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example).
 
 Har du ett GitHub-konto kan du klistra in kod i en [gist](https://gist.github.com/) och länka (gists kan tas bort senare). Annars kan du använda någon pastebin-sajt (<https://hastebin.com/>, <https://paste.ubuntu.com/> osv).
 
@@ -81,12 +81,6 @@ return 0;
 #### Language Server Protocol
 [Language Server Protocol](https://langserver.org) är ett protokoll där tanken är att olika editors ska kunna ta del av samma språkverktyg och stöds av ex Microsoft, IBM, Red Hat, Facebook mfl. Principen är ganska enkel, i editorn installerar du ett plugin som fungerar som klient, sedan installerar du en server för de programspråk du använder i ditt operativsystem. Klienten använder då aktuell server för att implementera de funktioner som stöds av servern. Det gör att ex även Vim, Emacs, Sublime Text etc på ett enkelt sätt kan använda funktionalitet ifrån projekt med stort stöd inom respektive community. Se länken ovan för klient-/serveralternativ för olika editors och språk.
 
-### Linux
-
-Vilken som helst av de stora, vanligt förekommande distributionerna ([Ubuntu](https://ubuntu.com/) / [Mint](https://www.linuxmint.com/) / [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/), [Arch](https://www.archlinux.org/), osv. etc.) funkar bra för allt du kommer behöva göra under programmet. Senaste LTS-versionen av Ubuntu (LTS = long term support) är standardtipset: lätt att komma ihång med och populärast (så lätt att googla problem).
-
-Att ha en dator med enbart Linux är rekommenderat (eller dual-boota om du orkar mecka). Annars kan du använda [VirtualBox](https://www.virtualbox.org/) (Linux/Mac/Windows), men det kommer att gå segare. Ett annat alternativ, om du kör Windows, är [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
-
 **Förslag på klienter till vim**
 
 Plug-and-play lösningar som inte kräver så mycket konfiguration
@@ -97,6 +91,12 @@ För en lättviktsvariant som kräver lite konfigurering för varje språk
 * [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
 
 Samtliga klienter ovan är ganska väldokumenterade och har ett ganska stort antal användare.
+
+### Linux
+
+Vilken som helst av de stora, vanligt förekommande distributionerna ([Ubuntu](https://ubuntu.com/) / [Mint](https://www.linuxmint.com/) / [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/), [Arch](https://www.archlinux.org/), osv. etc.) funkar bra för allt du kommer behöva göra under programmet. Senaste LTS-versionen av Ubuntu (LTS = long term support) är standardtipset: lätt att komma ihång med och populärast (så lätt att googla problem).
+
+Att ha en dator med enbart Linux är rekommenderat (eller dual-boota om du orkar mecka). Annars kan du använda [VirtualBox](https://www.virtualbox.org/) (Linux/Mac/Windows), men det kommer att gå segare. Ett annat alternativ, om du kör Windows, är [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
 
 ## Användbara länkar för olika programmeringsspråk
 

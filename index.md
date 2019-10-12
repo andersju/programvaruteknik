@@ -126,6 +126,7 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 * [linuxjourney](https://linuxjourney.com/) - Kom igång med Linux - guider på olika nivåer
 * [Extramaterial: Operating System Concepts](https://www.os-book.com/) - Slides, sammanfattningar, anteckningar m.m. för alla kapitel i kursboken av Silberschatz
 * [Stallings ppt slides](https://s2.smu.edu/~devans/7343/OS9epptSlides/) - Slides för kursboken av Stallings, med detaljerad förklaring till varje bild
+* [Umask-värden](https://www.linuxtrainingacademy.com/all-umasks/) - En sammanställning av alla kombinationer för umask med resulterande behörigheter
 
 ### DT018G Introduktion till programmering i C++
 

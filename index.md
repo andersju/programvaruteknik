@@ -133,6 +133,7 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 ### DT151G Datorkommunikation och nätverk, med tillämpningar i Linux
+* [Stallings ppt slides](http://erdos.csie.ncnu.edu.tw/~ccyang/CSNetwork/Slides10e/) - Slides för kursboken av Stallings (dock från annat universitet)
 
 ### DT019G Objektbaserad programmering i C++
 

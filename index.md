@@ -131,7 +131,7 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 ### DT018G Introduktion till programmering i C++
 
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-* [The Cherno: C++ tutorial playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) Omfattande YouTube tutorials för C++ för den som föredrar att lära sig genom att lyssna
+* [The Cherno: C++ tutorial playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Omfattande YouTube tutorials för C++ för den som föredrar att lära sig genom att lyssna
 
 ### DT151G Datorkommunikation och nätverk, med tillämpningar i Linux
 * [Stallings ppt slides](http://erdos.csie.ncnu.edu.tw/~ccyang/CSNetwork/Slides10e/) - Slides för kursboken av Stallings (dock från annat universitet)

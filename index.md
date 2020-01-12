@@ -117,6 +117,10 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 * Mozillas [MDN](https://developer.mozilla.org/) är en pålitlig källa för tutorials och referensmaterial och annat för [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), etc.
 * [caniuse.com](https://caniuse.com/) är bra för att se exakt vad olika webbläsare stöder.
 
+## Utbildningsplaner
+
+* [Utbildningsplan årskull 2019](http://krosenq.com/utbildningsplan/) - Utbildningsplan med klickbara länkar för kursplaner (för planering av studieupplägg, inköp av litteratur etc)
+
 ## Kurser år 1
 
 ### DT013G Datavetenskaplig introduktionskurs

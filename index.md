@@ -182,9 +182,13 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 
 ## Utbildningsplaner
 
-* Utbildningsplan Årskull 2022 med behörighetskrav
+* Utbildningsplan årskull 2024 med förkunskapskrav
 
-![Utbildningsplan Årskull 2022](./img/tpvag2022.jpg "Utbildningsplan Årskull 2022")
+![Utbildningsplan årskull 2024](./img/tpvag2024_fkk.jpg "Utbildningsplan årskull 2024")
+
+* Kursrelationer och sammanhang 
+
+![Kursrelationer](./img/kursöversikt.jpg "Kursrelationer")
 
 ## Kurser år 1
 
@@ -263,6 +267,9 @@ Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
 
 ### DT195G Operativsystem
 
+* [Komplement till kursboken](https://www.os-book.com/OS10/index.html) - Innehåller övningar,
+  slides, lösningar till problem i boken med mera.
+
 ### DT183G Datastrukturer och algoritmer 
 
 ### DT167G Mjukvarusäkerhet
@@ -271,7 +278,7 @@ Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
 
 ### DT166G Presentation av ny teknik
 
-### DT175G Reaktiv programmering
+### DV033G Principer inom mjukvarutestning
 
 ### DT031G Användarcentrerad mjukvaruutveckling
 

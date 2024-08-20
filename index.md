@@ -188,7 +188,7 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 
 * Kursrelationer och sammanhang 
 
-![Kursrelationer](./img/kursöversikt.jpg "Kursrelationer")
+![Kursrelationer](./img/tpvag_course_overview.jpg "Kursrelationer")
 
 ## Kurser år 1
 
@@ -280,13 +280,13 @@ Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
 
 ### DV033G Principer inom mjukvarutestning
 
-### DT031G Användarcentrerad mjukvaruutveckling
+### DV032G Programmeringsparadigm
 
 ### DT175G Artificiell Intelligens för agenter
 
-### DT199G Programmeringsparadigm
-
 ### DT002G Tillämpad datateknik
+
+### DT198G Användarcentrerad mjukvaruutveckling
 
 ### DT133G/DT192G Sjävständigt arbete
 

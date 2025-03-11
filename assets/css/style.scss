@@ -21,3 +21,40 @@ h6 {
 header h2 {
   color: #999;
 }
+
+/* Enable smooth scrolling */
+@media screen and (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Style the back-to-top button */
+.top-link {
+  transition: all .25s ease-in-out;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  display: inline-flex;
+  color: #b5e853;  /* Match the hacker theme's accent color */
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  margin: 0 2em 2em 0;
+  border-radius: 50%;
+  padding: .25em;
+  width: 2em;
+  height: 2em;
+  background-color: #151515;  
+  border: 1px solid #b5e853;  
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 0;
+}
+
+.top-link:hover {
+  background-color: #b5e853;
+  color: #151515;
+  text-decoration: none;
+}

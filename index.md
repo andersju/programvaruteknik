@@ -105,7 +105,7 @@ open-source alternativ som erbjuder många funktioner som traditionellt sett int
 texteditorer, som t.ex inbyggd terminal och stöd för versionskontroll. Visual Studio Code med Live
 Server, ESlint, Prettier och Stylelint är en stabil kombination för webbutveckling. 
 
-#### Language Server Protocol [Language Server Protocol](https://langserver.org) är ett protokoll
+### Language Server Protocol [Language Server Protocol](https://langserver.org) är ett protokoll
 där tanken är att olika editors ska kunna ta del av samma språkverktyg och stöds av ex Microsoft,
 IBM, Red Hat, Facebook mfl. Principen är ganska enkel, i editorn installerar du ett plugin som
 fungerar som klient, sedan installerar du en server för de programspråk du använder i ditt
@@ -131,7 +131,7 @@ Vilken som helst av de stora, vanligt förekommande distributionerna ([Ubuntu](h
 [Mint](https://www.linuxmint.com/) / [Debian](https://www.debian.org/),
 [Fedora](https://getfedora.org/), [Arch](https://www.archlinux.org/), osv. etc.) funkar bra för allt
 du kommer behöva göra under programmet. Senaste LTS-versionen av Ubuntu (LTS = long term support) är
-standardtipset: lätt att komma ihång med och populärast (så lätt att googla problem).
+standardtipset: lätt att komma igång med och populärast (så lätt att googla problem).
 
 Att ha en dator med enbart Linux är rekommenderat (eller dual-boota om du orkar mecka). Annars kan
 du använda [VirtualBox](https://www.virtualbox.org/) (Linux/Mac/Windows), men det kommer att gå
@@ -294,7 +294,7 @@ Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
 
 ### DT198G Användarcentrerad mjukvaruutveckling
 
-### DT133G/DT192G Sjävständigt arbete
+### DT133G/DT192G Självständigt arbete
 
 ## Annat nyttigt
 

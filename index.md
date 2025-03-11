@@ -1,6 +1,12 @@
---- title: Programvaruteknik --- ## Innehållsförteckning {:.no_toc}
+---
+title: Programvaruteknik
+---
 
-* TOC {:toc}
+## Innehållsförteckning
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## Inledande tips
 
@@ -68,7 +74,7 @@ kan tas bort senare). Annars kan du använda någon pastebin-sajt (<https://hast
 Mindre kodsnuttar kan du posta direkt på Discord. Se till att omge dem med  tre backticks - \`\`\`
 - före och efter. T.ex.:
 
-	``` kod kod kod kod kod kod ```
+	``` kod kod kod kod kod ```
 
 För syntax highlighting kan du även ange språk. T.ex.:
 
@@ -304,7 +310,7 @@ Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
 
 ### PHP
 
-* [PHP: The Right Way](https://phptherightway.com/) ("There’s a lot of outdated information on the
+* [PHP: The Right Way](https://phptherightway.com/) ("There's a lot of outdated information on the
   Web that leads new PHP users astray, propagating bad practices and insecure code. PHP: The Right
   Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative
   tutorials around the Web and what the contributors consider to be best practices at the present

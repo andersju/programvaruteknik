@@ -190,7 +190,7 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 
 * Utbildningsplan årskull 2024 med förkunskapskrav
 
-![Utbildningsplan årskull 2024](./img/tpvag2024_fkk.jpg "Utbildningsplan årskull 2024")
+![Utbildningsplan årskull 2024](./img/tpvag2025_fkk.jpg "Utbildningsplan årskull 2024")
 
 * Kursrelationer och sammanhang 
 

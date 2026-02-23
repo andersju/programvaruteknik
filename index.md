@@ -56,7 +56,7 @@ IEEE-stil som används:
 
 Sök efter `ieee citation style` för massor av fler guider och exempel.
 
-[Zotero](https://www.zotero.org/) (som kan integreras med LibreOffice) kan vara nyttigt.
+[Zotero](https://www.zotero.org/) (som kan integreras med LibreOffice, Word och Google Docs) kan vara nyttigt.
 Institutionen har i skrivande stund ODT-mallar som standard...
 
 ## Ställa frågor
@@ -188,9 +188,9 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 
 ## Utbildningsplaner
 
-* Utbildningsplan årskull 2024 med förkunskapskrav
+* Utbildningsplan årskull 2025 med förkunskapskrav
 
-![Utbildningsplan årskull 2024](./img/tpvag2025_fkk.jpg "Utbildningsplan årskull 2024")
+![Utbildningsplan årskull 2025](./img/tpvag2025_fkk.jpg "Utbildningsplan årskull 2025")
 
 * Kursrelationer och sammanhang 
 
@@ -198,23 +198,14 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 
 ## Kurser år 1
 
-### DT186G Programvaruteknisk Introduktionskurs
+### DV043G Programvaruteknik, Introduktionskurs
 
-### DT179G Programmeringens Grunder (Python)
+### DV044G Programmeringens Grunder (Python)
 
 * [Corey Schafer](https://www.youtube.com/c/Coreyms) - Grymt bra tutorials för mycket av det som gås
   igenom i kursen - skönt när man är trött på att läsa.
 
-### DT151G Datorkommunikation med tillämpningar i Linux
-
-* [linuxjourney](https://linuxjourney.com/) - Kom igång med Linux - guider på olika nivåer
-* [Kursmaterialets LMS-sida](https://gaia.cs.umass.edu/kurose_ross/index.php) - Inspelade
-  föreläsningar av Jim Kurose på UMASS, labbar, knowledge checks och interaktiva problem som hjälper
-  mycket för instudering av materialet.
-* [Umask-värden](https://www.linuxtrainingacademy.com/all-umasks/) - En sammanställning av alla
-  kombinationer för umask med resulterande behörigheter
-
-### DT146G Webbprogrammering med HTML5, CSS3 och JavaScript
+### DV045G Webbutevckling med inriktning frontend
 
 Lär dig använda developer tools i Firefox eller Chrome. Ovärderligt/oumbärligt.
 
@@ -232,7 +223,16 @@ Alternativ till den mycket utdaterade kurslitteraturen:
 * Använd därefter [MDN Web Docs](https://developer.mozilla.org/en-US/) och
   [Javascript.info](https://javascript.info/) för att läsa om det som måste läras in.
 
-### DT194G Mjukvaruutveckling
+### DV046G Databaser, introduktion
+
+* [DB Browser for SQLite](https://sqlitebrowser.org/) (sqlitebrowser) - "visual, open source tool to
+  create, design, and edit database files compatible with SQLite" - snabbt och enkelt sätt att
+  laborera med databaser
+* [Diagrams.net](https://app.diagrams.net/?src=about) - Bra verktyg för alla typer av modellering
+  och diagram, t.ex ER och UML. Går att arbeta tillsammans på med liveuppdatering via Google Drive,
+  och även att spara via Github.
+
+### DV053G Mjukvaruutveckling
 
 * [Diagrams.net](https://app.diagrams.net/?src=about) - Bra verktyg för alla typer av modellering
   och diagram, t.ex ER och UML. Går att arbeta tillsammans på med liveuppdatering via Google Drive,
@@ -244,30 +244,23 @@ Alternativ till den mycket utdaterade kurslitteraturen:
   Mattespecialisering tar upp saker relevanta för kursen.
 * [Symbolab Math Solver](https://www.symbolab.com/) - förklarar hur godtycklig ekvation kan lösas
 
-### DT188G Databaser, modellering och implementering
-
-* [DB Browser for SQLite](https://sqlitebrowser.org/) (sqlitebrowser) - "visual, open source tool to
-  create, design, and edit database files compatible with SQLite" - snabbt och enkelt sätt att
-  laborera med databaser
-* [Diagrams.net](https://app.diagrams.net/?src=about) - Bra verktyg för alla typer av modellering
-  och diagram, t.ex ER och UML. Går att arbeta tillsammans på med liveuppdatering via Google Drive,
-  och även att spara via Github.
-
-### DT180G Objektorienterad programmering I
+### DV054G Objektorienterad programmering I
 
 Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
+
+### DV056G Webbutveckling med inriktning backend
 
 ## Kurser år 2
 
 ### DT182G Vetenskapligt skrivande & argumentation
 
-### DT181G Objektorienterad programmering II
+### DT181G/DV055G Objektorienterad programmering II
 
 ### DT190G JavaScriptbaserad webbutveckling
 
 ### DT031G Applikationsutveckling för Android
 
-### DT042G Metoder och verktyg i mjukvaruprojekt
+### DT042G/DV062G Metoder och verktyg i mjukvaruprojekt
 
 * [Oh, shit, git!](https://ohshitgit.com/) - lösningar på vanliga problem
 
@@ -294,7 +287,7 @@ Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
 
 ### DT198G Användarcentrerad mjukvaruutveckling
 
-### DT133G/DT192G Självständigt arbete
+### DT133G Självständigt arbete
 
 ## Annat nyttigt
 

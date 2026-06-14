@@ -188,9 +188,9 @@ Olika saker men tenderar att användas tillsammans i kurserna på programmet.
 
 ## Utbildningsplaner
 
-* Utbildningsplan årskull 2025 med förkunskapskrav
+* Utbildningsplan årskull 2026 med förkunskapskrav
 
-![Utbildningsplan årskull 2025](./img/tpvag2025_fkk.jpg "Utbildningsplan årskull 2025")
+![Utbildningsplan årskull 2026](./img/tpvcg2026_fkk.jpg "Utbildningsplan årskull 2026")
 
 * Kursrelationer och sammanhang 
 
@@ -252,15 +252,15 @@ Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
 
 ## Kurser år 2
 
-### DT182G Vetenskapligt skrivande & argumentation
+### DV064G Vetenskapligt skrivande & argumentation
 
-### DT181G/DV055G Objektorienterad programmering II
+### DV055G Objektorienterad programmering II
 
-### DT190G JavaScriptbaserad webbutveckling
+### DV066G AI engineering
 
-### DT031G Applikationsutveckling för Android
+### DV049G Applikationsutveckling för Android
 
-### DT042G/DV062G Metoder och verktyg i mjukvaruprojekt
+### DV062G Metoder och verktyg i mjukvaruprojekt
 
 * [Oh, shit, git!](https://ohshitgit.com/) - lösningar på vanliga problem
 
@@ -271,7 +271,7 @@ Använd IntelliJ IDEA (gratis studentlicens) för att göra livet drägligare.
 
 ### DT183G Datastrukturer och algoritmer 
 
-### DT167G Mjukvarusäkerhet
+### DV042G Mjukvarusäkerhet
 
 ## Kurser år 3
 
